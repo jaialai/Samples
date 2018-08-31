@@ -1,0 +1,10 @@
+C:\Users\Yonah\Documents\IMSG 6020\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\Yonah\Documents\IMSG 6020\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\Yonah\Documents\IMSG 6020\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\Yonah\Documents\IMSG 6020\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+C:\Users\Yonah\Documents\IMSG 6020\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\Users\Yonah\Documents\IMSG 6020\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\Yonah\Documents\IMSG 6020\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\Yonah\Documents\IMSG 6020\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\Yonah\Documents\IMSG 6020\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\Yonah\Documents\IMSG 6020\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
